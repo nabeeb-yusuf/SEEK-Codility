@@ -31,4 +31,4 @@ function bricks(A) {
     return moves;
 }
 
-console.log(bricks([6,7,8,5,3,8,9,1,3]));
+console.log(bricks([12,5,13,13,7]));
